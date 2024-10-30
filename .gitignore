@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+
+# Environments
+<<<<<<< HEAD
+env
+=======
+env/
+
+# Database 
+database.db
+>>>>>>> front
+
+# Secret stuff
+keys.py
+makefile
+Makefile
+
