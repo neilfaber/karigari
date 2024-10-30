@@ -4,8 +4,6 @@ Built with Flask, HTML, CSS, and JavaScript, Nexora Cart is an online marketplac
 
 <div align='center'>
 
-## Do follow Me: [Gabbar-v7](https://github.com/Gabbar-v7) And Star My Repo: [CRUD](https://github.com/Gabbar-v7/CRUD)
-
 </div>
 
 ## Authors
